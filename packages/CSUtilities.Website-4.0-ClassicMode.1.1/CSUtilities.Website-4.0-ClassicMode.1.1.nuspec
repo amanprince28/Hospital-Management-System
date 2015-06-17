@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CSUtilities.Website-4.0-ClassicMode</id>
+    <version>1.1</version>
+    <title>CSUtilities Commerce Server ASP.NET 4.0 Website Classic Mode</title>
+    <authors>Brian Holmgård Kristensen</authors>
+    <owners>Brian Holmgård Kristensen</owners>
+    <projectUrl>http://code.google.com/p/csutilities</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Installs a basic Commerce Server 2009 ASP.NET 4.0 website supporting both WebForms and MVC supporting Classic Mode in IIS 7.x as well as Integrated Web-Server in Visual Studio.</description>
+    <summary>Installs a basic Commerce Server 2009 ASP.NET 4.0 website supporting both WebForms and MVC supporting Classic Mode in IIS 7.x as well as Integrated Web-Server in Visual Studio.</summary>
+    <tags>commerce server 2009</tags>
+  </metadata>
+</package>
